@@ -40,7 +40,9 @@ const Dashboard = () => {
   return (
     <div className="min-h-screen bg-gray-100 p-6 font-sans">
       <h1 className="text-3xl font-bold mb-4 text-center text-gray-800">myStore Product Dashboard</h1>
+
       <div className="mb-4 flex justify-center">
+        
         <input
           type="text"
           placeholder="Search product..."
