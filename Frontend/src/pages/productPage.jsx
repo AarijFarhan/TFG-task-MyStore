@@ -72,7 +72,7 @@ const ProductPage = () => {
                   alt={product.title}
                   width={400}
                   height={300}
-                  className="w-full h-full object-contain p-4 hover:scale-x-[-1] transition-all duration-500 cursor-pointer"
+                  className="w-full h-full object-contain p-4 transform transition-transform duration-500 hover:scale-105 hover:z-10 "
                   
                 />
 
